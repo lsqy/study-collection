@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+dist/
+public/
+
+npm-debug.log
+yarn-error.log
+.eslintcache
+runServer.sh
+build.sh
+.qiniurc
