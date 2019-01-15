@@ -19,3 +19,7 @@ github.io地址：`https://i5ting.github.io/How-to-learn-node-correctly/`
 ### 4、ECMAScript 6 入门
 
 在线阅读地址：`http://es6.ruanyifeng.com/`
+
+### 5、PWA入门文档
+
+在线阅读地址：`https://lavas.baidu.com/pwa`
