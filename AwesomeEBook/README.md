@@ -10,16 +10,21 @@
 ### 2、狼叔：如何正确的学习Node.js
 
 - [github地址 =>](https://github.com/i5ting/How-to-learn-node-correctly)
-- [github.io地址 =>](https://i5ting.github.io/How-to-learn-node-correctly/)
+- [github.io地址 =>](https://i5ting.github.io/How-to-learn-node-correctly)
 
 ### 3、阮一峰-未来世界的幸存者
 
-[在线阅读地址 =>](http://www.ruanyifeng.com/survivor/)
+[在线阅读地址 =>](http://www.ruanyifeng.com/survivor)
 
 ### 4、ECMAScript 6 入门
 
-[在线阅读地址 =>](http://es6.ruanyifeng.com/)
+[在线阅读地址 =>](http://es6.ruanyifeng.com)
 
 ### 5、PWA入门文档
 
 [在线阅读地址 =>](https://lavas.baidu.com/pwa)
+
+### 6、github漫游指南
+
+- [github地址 =>](https://github.com/phodal/github)
+- [在线阅读地址 =>](https://github.phodal.com)
