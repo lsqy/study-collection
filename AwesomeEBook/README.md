@@ -47,3 +47,35 @@
 
 - [github地址 =>](https://github.com/phodal/github)
 - [在线阅读地址 =>](https://github.phodal.com)
+
+### 8、HelloGitHub
+
+> 分享 GitHub 上有趣、入门级的开源项目,可以在这个上面找到多领域的一些项目
+
+[github地址 =>](https://github.com/521xueweihan/HelloGitHub)
+
+### 9、git-tips
+
+> Git的奇技淫巧,基本上覆盖了你需要用到的各种git命令，如果之前从未使用过Git，那可以先从[Git小白教程](http://rogerdudler.github.io/git-guide/index.zh.html)开始
+
+[github地址 =>](https://github.com/521xueweihan/git-tips)
+
+### 10、github api相关
+
+> 可以根据下述汇总的这些知识开发一个github站点，是一个不错的实战练习
+
+- [github REST API v3](https://developer.github.com/v3/)
+  
+  > github的v3版本地址
+
+- [github GraphQL API v4](https://developer.github.com/v4/)
+
+  > github的graphQL规范的api
+
+- [webhooks](https://developer.github.com/webhooks/)
+  
+  > github的hook机制，可以通过它来实现一些robot来进行练习自动化的相关知识
+
+- [github-tools/github](https://github.com/github-tools/github)
+
+  > 基于github api高度封装的一个开源库，对于大多数v3及以下的api可以开箱即用，如果是希望快速只开展github前端的话，可以迅速上手，[文档地址](http://github-tools.github.io/github/)
