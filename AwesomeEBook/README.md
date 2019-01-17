@@ -79,3 +79,10 @@
 - [github-tools/github](https://github.com/github-tools/github)
 
   > 基于github api高度封装的一个开源库，对于大多数v3及以下的api可以开箱即用，如果是希望快速只开展github前端的话，可以迅速上手，[文档地址](http://github-tools.github.io/github/)
+
+### 11、typescript-book-chinese
+
+> 《TypeScript Deep Dive》 是一本很好的开源书，从基础到深入，很全面的阐述了 TypeScript 的各种魔法，不管你是新手，还是老鸟，它都将适应你。此外，它不同于 TypeScript 官方给出的文档（当然 TypeScript 给出的文档是很好的），在此书中，结合实际应用下的场景用例，你将能更深入的理解 TypeScript。对于想进一步掌握学习TypeScript的人事再适合不过了~
+
+- [github地址 =>](https://github.com/jkchao/typescript-book-chinese)
+- [在线阅读地址 =>](https://jkchao.github.io/typescript-book-chinese)
