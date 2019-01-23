@@ -100,3 +100,9 @@
 
 - [github地址 =>](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 - [在线阅读地址 =>](https://yuchengkai.cn/docs/frontend/)
+
+### 14、秒杀系统设计与实现.互联网工程师进阶与分析
+
+> 一个很好秒杀高并发架构分析讲解，对于想要了解这方便或者有兴趣了解的人是个不错的选择
+
+- [github地址 =>](https://github.com/qiurunze123/miaosha)
