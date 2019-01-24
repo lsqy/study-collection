@@ -106,3 +106,9 @@
 > 一个很好秒杀高并发架构分析讲解，对于想要了解这方便或者有兴趣了解的人是个不错的选择
 
 - [github地址 =>](https://github.com/qiurunze123/miaosha)
+
+### 15、《后端架构师技术图谱》
+
+> 如果想在后端领域精进，那么一定要好好的读下这个~
+
+- [github地址 =>](https://github.com/xingshaocheng/architect-awesome)
