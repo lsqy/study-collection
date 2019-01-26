@@ -118,3 +118,9 @@
 > 公司有抽奖需求的可以看一看，哈哈
 
 - [github地址 =>](https://github.com/75team/raffle)
+
+### 17、多端统一开发框架 Taro 优秀学习资源汇总
+
+> 如果想要快速上手taro这个多端框架的话，可以看看这个里面的这些项目
+
+- [github地址 =>](https://github.com/NervJS/awesome-taro)
