@@ -124,3 +124,9 @@
 > 如果想要快速上手taro这个多端框架的话，可以看看这个里面的这些项目
 
 - [github地址 =>](https://github.com/NervJS/awesome-taro)
+
+### 18、electron-api-demos-Zh_CN
+
+> 学习electron的不错的文档
+
+- [github地址 =>](https://github.com/demopark/electron-api-demos-Zh_CN)
