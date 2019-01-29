@@ -1,0 +1,69 @@
+<template>
+  <view>
+    <!-- 数据绑定与计算属性 -->
+    <text>{{ message }}</text>
+    <text class="class1">{{ message2 }}</text>
+
+    <!-- 条件与循环渲染 -->
+    <view c-if="{{showlist}}">
+      <view c-for="{{array}}" c-for-index="idx" c-for-item="itemName" c-key="city" >
+        <text> {{idx}}: {{itemName.city}}</text>
+      </view>
+    </view>
+
+    <!-- 事件绑定 -->
+    <view c-bind:click="changeShow"><text>切换展示</text></view>
+  </view>
+</template>
+
+<script>
+class Index {
+  data = {
+    message: 'Hello Chameleon!',
+    array: [
+      {
+        city: '北京'
+      },
+      {
+        city: '上海'
+      },
+      {
+        city: '广州'
+      }
+    ],
+    showlist: true
+  }
+
+  computed = {
+    message2: function() {
+      return 'computed' + this.message;
+    }
+  }
+
+  watch = {
+    showlist(newVal, oldVal) {
+      console.log(`showlist changed:`+ newVal)
+    }
+  }
+
+  methods = {
+    changeShow() {
+      this.showlist = !this.showlist;
+    }
+  }
+
+  created() {
+    console.log('生命周期')
+  }
+}
+
+export default new Index();
+</script>
+<style scoped>
+.class1 {
+  color: #f00;
+}
+</style>
+<script cml-type="json">
+{}
+</script>
