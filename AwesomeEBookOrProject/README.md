@@ -148,3 +148,9 @@
 > 可以自动处理github中的 issue、PR、releases 机器人，对于自动化感兴趣的可以阅读下源码进行学习
 
 - [github地址 =>](https://github.com/xuexb/github-bot)
+
+### 22、目前业内的主要前端框架汇总
+
+> 这个是github官方列出的前端领域常用的前端框架列表，并且也会随着发展而更新，所以这个地址值得关注进行掌握新的框架趋势
+
+- [github地址 =>](https://github.com/collections/front-end-javascript-frameworks)
