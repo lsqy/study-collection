@@ -142,3 +142,9 @@
 > 可以说写的还是很全面的，如果你在前端领域有一些迷茫，不放看一看，兴许可以找到一些新的发现方向
 
 - [在线阅读地址 =>](https://phodal.github.io/fed/)
+
+### 21、github机器人
+
+> 可以自动处理github中的 issue、PR、releases 机器人，对于自动化感兴趣的可以阅读下源码进行学习
+
+- [github地址 =>](https://github.com/xuexb/github-bot)
