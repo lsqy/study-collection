@@ -154,3 +154,9 @@
 > 这个是github官方列出的前端领域常用的前端框架列表，并且也会随着发展而更新，所以这个地址值得关注进行掌握新的框架趋势
 
 - [github地址 =>](https://github.com/collections/front-end-javascript-frameworks)
+
+### 23、基于github高度封装的restful接口库
+
+> 可以根据这个库进行一些前端框架实战的尝试，比如通过小程序来实现一个简易版本的github
+
+- [github地址 =>](https://github.com/octokit/rest.js)
