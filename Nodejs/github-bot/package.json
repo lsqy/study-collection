@@ -1,0 +1,81 @@
+{
+  "name": "github-bot",
+  "description": "Github bot",
+  "version": "0.0.1",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "NODE_ENV=development node src/app",
+    "lint": "eslint src/**/*.js test/**/*.js --quiet",
+    "deploy": "pm2 start src/app.js --name=github-bot",
+    "precommit": "npm run lint",
+    "commitmsg": "validate-commit-msg",
+    "test:watch": "npm run test -- --watch",
+    "test:cov": "istanbul cover node_modules/mocha/bin/_mocha -- -t 5000 --recursive  -R spec test/",
+    "test": "mocha --reporter spec --timeout 5000 --recursive test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuexb/github-bot.git"
+  },
+  "author": "xuexb <fe.xiaowu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuexb/github-bot/issues"
+  },
+  "homepage": "https://github.com/xuexb/github-bot#readme",
+  "dependencies": {
+    "cryptiles": "3.1.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^4.0.0",
+    "github": "^11.0.0",
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "log4js": "^2.3.10",
+    "require-dir": "^0.3.2",
+    "string-template": "^1.0.0"
+  },
+  "engines": {
+    "node": ">= 7.8.0"
+  },
+  "config": {
+    "validate-commit-msg": {
+      "types": [
+        "feat",
+        "fix",
+        "docs",
+        "style",
+        "refactor",
+        "test",
+        "chore",
+        "revert",
+        "release",
+        "close"
+      ]
+    },
+    "github-bot": {
+      "labelToAuthor": {
+        "bug": "lsqy-robot",
+        "enhancement": "lsqy-robot",
+        "question": "lsqy-robot"
+      }
+    }
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "eslint": "^4.9.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-friendly-formatter": "^3.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.2.0",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "husky": "^0.14.3",
+    "istanbul": ">=1.0.0-alpha.2",
+    "mocha": "^4.0.1",
+    "mock-require": "^2.0.2",
+    "sinon": "^4.0.2",
+    "sinon-chai": "^2.14.0",
+    "validate-commit-msg": "^2.14.0"
+  }
+}
