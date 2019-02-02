@@ -166,3 +166,9 @@
 > 可以说涉及了很多种语言的经典高质量的电子书，真的值得收藏，当然如果你有不错的电子书也可以提`pull request`
 
 - [github地址 =>](https://github.com/threerocks/studyFiles)
+
+### 25、Nodejs调试指南
+
+> Nodejs调试指南官方github地址，喜欢阅读纸质版的也可以去购买纸质书~在进行Nodejs开发的时候，不像在前端写js可以在浏览器上进行调试，所以需要掌握下Nodejs的调试技巧
+
+- [github地址 =>](https://github.com/nswbmw/node-in-debugging)
