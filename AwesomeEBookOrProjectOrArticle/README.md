@@ -172,3 +172,9 @@
 > Nodejs调试指南官方github地址，喜欢阅读纸质版的也可以去购买纸质书~在进行Nodejs开发的时候，不像在前端写js可以在浏览器上进行调试，所以需要掌握下Nodejs的调试技巧
 
 - [github地址 =>](https://github.com/nswbmw/node-in-debugging)
+
+### 26、小程序生成图片库
+
+> 轻松通过 json 方式绘制一张可以发到朋友圈的图片
+
+- [github地址 =>](https://github.com/Kujiale-Mobile/Painter)
