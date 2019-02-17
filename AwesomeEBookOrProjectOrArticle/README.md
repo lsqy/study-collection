@@ -178,3 +178,9 @@
 > 轻松通过 json 方式绘制一张可以发到朋友圈的图片
 
 - [github地址 =>](https://github.com/Kujiale-Mobile/Painter)
+
+### 27、《剑指Offer》第二版源代码
+
+> 阅读书结合源码学习起来效率更高些
+
+- [github地址 =>](https://github.com/zhedahht/CodingInterviewChinese2)
