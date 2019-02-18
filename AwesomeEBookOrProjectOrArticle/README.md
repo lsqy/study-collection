@@ -184,3 +184,10 @@
 > 阅读书结合源码学习起来效率更高些
 
 - [github地址 =>](https://github.com/zhedahht/CodingInterviewChinese2)
+
+
+### 28、每个 JavaScript 工程师都应懂的33个概念
+
+> 提高下自己的规范意识以及解决问题的思路
+
+- [github地址 =>](https://github.com/stephentian/33-js-concepts)
