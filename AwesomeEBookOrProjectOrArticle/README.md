@@ -89,7 +89,7 @@
 
 ### 12、CSS-Inspiration
 
-> 可以说是将css的强大之处运用的恰到好处，值得去好好学习下
+> 可以说是将css的强大之处运用的恰到好处，值得去好好学习下,当遇到一些场景需要实现的时候可以考虑不用js，只用css去实现
 
 - [github地址 =>](https://github.com/chokcoco/CSS-Inspiration)
 - [在线阅读地址 =>](https://chokcoco.github.io/CSS-Inspiration/)
