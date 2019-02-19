@@ -197,3 +197,10 @@
 > 整理的还是值得一看的,对于前端小白尤为实用~
 
 - [在线阅读地址 =>](https://www.yuque.com/fe9/basic)
+
+### 30、gatsby-基于react的静态站点生成工具
+
+> 对于个人博客建站或者写文档还是不错的选择
+
+- [github地址 =>](https://github.com/gatsbyjs/gatsby)
+- [官方文档地址 =>](https://www.gatsbyjs.org/)
