@@ -210,3 +210,9 @@
 > 工作日每天一道前端大厂面试题,网易的一个前端整理的一个`repo`
 
 - [github地址 =>](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+
+### 32、前端九部知识库
+
+> 前端九部可以说是聚集了前端圈很多大佬的圈子，里面分享了很多干货~
+
+- [github地址 =>](https://github.com/frontend9/fe9-library)
