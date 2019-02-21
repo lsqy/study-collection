@@ -216,3 +216,9 @@
 > 前端九部可以说是聚集了前端圈很多大佬的圈子，里面分享了很多干货~
 
 - [github地址 =>](https://github.com/frontend9/fe9-library)
+
+### 33、电商后台管理系统参考项目
+
+> `mall-admin-web`是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。
+
+- [github地址 =>](https://github.com/macrozheng/mall-admin-web)
