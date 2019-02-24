@@ -234,3 +234,10 @@
 > 这是一个有段时间的库了，还是比较容易上手的
 
 - [github地址 =>](https://github.com/nodemailer/nodemailer)
+
+### 36、一份justjavac总结的一些资料汇总
+
+> 根据需要，自取所需
+
+- [github地址 =>](https://github.com/justjavac/awesome-awesomeness-zh_CN)
+
