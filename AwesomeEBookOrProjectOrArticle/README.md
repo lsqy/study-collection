@@ -241,3 +241,10 @@
 
 - [github地址 =>](https://github.com/justjavac/awesome-awesomeness-zh_CN)
 
+### 37、中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) https://mbinary.xyz/ustc-cs/
+
+> 覆盖的课程还是挺多的，值得收藏学习
+
+- [github地址 =>](https://github.com/mbinary/USTC-CS-Courses-Resource)
+
+
