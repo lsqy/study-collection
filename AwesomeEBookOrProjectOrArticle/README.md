@@ -247,4 +247,14 @@
 
 - [github地址 =>](https://github.com/mbinary/USTC-CS-Courses-Resource)
 
+### 38、IT平头哥联盟
+
+> 一个叫苏南的人维护的博客，也有对应的公众号，里面的一些文章还是比较受用的，有时间可以根据需要看看
+
+- [github地址 =>](https://www.susouth.com/)
+
+作者的另一个开源项目
+
+- [网易云音乐 react服务端渲染示例 =>](https://github.com/meibin08/NeteaseCloudMusic-SSR)
+
 
