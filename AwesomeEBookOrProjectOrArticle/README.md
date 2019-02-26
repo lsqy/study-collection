@@ -257,4 +257,8 @@
 
 - [网易云音乐 react服务端渲染示例 =>](https://github.com/meibin08/NeteaseCloudMusic-SSR)
 
+### 39、hangzhou_house_knowledge
 
+> 作者将买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜，有买房需求的可以着重了解下
+
+- [github地址 =>](https://github.com/houshanren/hangzhou_house_knowledge)
