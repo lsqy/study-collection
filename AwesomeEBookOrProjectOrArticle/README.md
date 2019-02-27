@@ -296,3 +296,5 @@
 > A Developer Roadmap to becoming a Node.js developer in 2019 （一个在2019年成为一个Nodejs开发者的开发者图谱),整个图谱涵盖的分类比较全面，基本包括了Nodejs开发的各个方面，值得根据上面提到的开展学习掌握
 
 - [github地址 =>](https://github.com/aliyr/Nodejs-Developer-Roadmap)
+
+![Roadmap](https://raw.githubusercontent.com/aliyr/Nodejs-Developer-Roadmap/master/Node.js-developer-roadmap.png)
