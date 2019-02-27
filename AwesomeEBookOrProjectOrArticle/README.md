@@ -262,3 +262,33 @@
 > 作者将买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜，有买房需求的可以着重了解下
 
 - [github地址 =>](https://github.com/houshanren/hangzhou_house_knowledge)
+
+### 40、网易云音乐相关优秀项目汇总
+
+> 记录下发现的不错的网易云音乐相关的项目
+
+#### 网易云音乐命令行版
+
+- [github地址 =>](https://github.com/darknessomi/musicbox)
+
+#### 网易云音乐Nodejs API
+
+> 可以说是在Nodejs的项目中非常不错的一个网易云api服务
+
+- [github地址 =>](https://github.com/Binaryify/NeteaseCloudMusicApi)
+
+#### 网易云音乐 Electron客户端
+
+- [github地址 =>](https://github.com/disoul/electron-cloud-music)
+
+#### 网易云音乐微信小程序
+
+- [github地址 =>](https://github.com/sqaiyan/NeteaseMusicWxMiniApp)
+- [github地址 =>](https://github.com/MengZhaoFly/wechatApp-netease_cloudmusic)
+
+#### Vue仿网易云音乐
+
+- [github地址 =>](https://github.com/hua1995116/musiccloudWebapp)
+- [github地址 =>](https://github.com/IFmiss/vue-music)
+
+
