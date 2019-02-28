@@ -298,3 +298,11 @@
 - [github地址 =>](https://github.com/aliyr/Nodejs-Developer-Roadmap)
 
 ![Roadmap](https://raw.githubusercontent.com/aliyr/Nodejs-Developer-Roadmap/master/Node.js-developer-roadmap.png)
+
+### 42、zero-(0配置的一个web框架)
+
+> 可以非常迅速的开始一个web项目的mini框架，集成了React、markdown
+
+- [github地址 =>](https://github.com/remoteinterview/zero)
+
+![zero](https://raw.githubusercontent.com/remoteinterview/zero/master/docs/images/header.gif)
