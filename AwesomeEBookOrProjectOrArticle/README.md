@@ -86,6 +86,7 @@
 
 - [github地址 =>](https://github.com/jkchao/typescript-book-chinese)
 - [在线阅读地址 =>](https://jkchao.github.io/typescript-book-chinese)
+- [typescript入门教程 =>](https://ts.xcatliu.com/)
 
 ### 12、CSS-Inspiration
 
