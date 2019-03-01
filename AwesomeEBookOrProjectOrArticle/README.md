@@ -307,3 +307,9 @@
 - [github地址 =>](https://github.com/remoteinterview/zero)
 
 ![zero](https://raw.githubusercontent.com/remoteinterview/zero/master/docs/images/header.gif)
+
+### 43、优质博客-前端工匠
+
+> 挺不错的博客，有很多优质的内容
+
+- [github地址 =>](https://github.com/ljianshu/Blog)
