@@ -313,3 +313,10 @@
 > 挺不错的博客，有很多优质的内容
 
 - [github地址 =>](https://github.com/ljianshu/Blog)
+
+
+### 44、vue-devtools git仓库源代码
+
+> 有时间了可以看看源码进行下分析学习
+
+- [github地址 =>](https://github.com/vuejs/vue-devtools)
