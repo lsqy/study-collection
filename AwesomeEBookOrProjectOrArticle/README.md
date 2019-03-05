@@ -328,5 +328,9 @@
 - [github地址 =>](https://github.com/vueComponent/ant-design-vue)
 - [开发文档地址 =>](https://vue.ant.design/docs/vue/introduce/)
 
+### 46、new-project-checklist
 
+> 当你开始一个新项目，或者加入一个新项目，它用来帮助你更好地熟悉它们。
+
+- [github地址 =>](https://github.com/phodal/new-project-checklist)
 
