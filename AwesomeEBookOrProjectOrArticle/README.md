@@ -340,3 +340,15 @@
 
 - [github地址 =>](https://github.com/alibaba/ice)
 - [文档地址 =>](https://alibaba.github.io/ice/)
+
+### 48、毕玄：我在阿里的十年技术感悟
+
+> 阿里大佬的感悟
+
+- [文章地址 =>](https://mp.weixin.qq.com/s/xlt_Vexq6x-BSxMA9nC5Ww)
+
+### 49、前端迷茫怎么办？
+
+> 张鑫旭写的，可以看看
+
+- [文章地址 =>](https://www.zhangxinxu.com/life/2019/01/%E5%89%8D%E7%AB%AF%E8%BF%B7%E8%8C%AB/)
