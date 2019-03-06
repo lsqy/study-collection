@@ -334,3 +334,9 @@
 
 - [github地址 =>](https://github.com/phodal/new-project-checklist)
 
+### 47、阿里开源的飞冰开源项目
+
+> 主要致力于企业中台项目，提供了很强的复用性与定制性
+
+- [github地址 =>](https://github.com/alibaba/ice)
+- [文档地址 =>](https://alibaba.github.io/ice/)
