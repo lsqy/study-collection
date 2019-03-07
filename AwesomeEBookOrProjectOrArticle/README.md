@@ -352,3 +352,10 @@
 > 张鑫旭写的，可以看看
 
 - [文章地址 =>](https://www.zhangxinxu.com/life/2019/01/%E5%89%8D%E7%AB%AF%E8%BF%B7%E8%8C%AB/)
+
+### 50、react-typescript-cheatsheet (react-typescript 开发注意事项备忘录)
+
+> 总结了一些需要注意的地方,如果你要准备开始使用typescript去开发react，那么你可以提前先看看这个，能让你开发得更顺利些
+
+- [github地址 =>](https://github.com/sw-yx/react-typescript-cheatsheet)
+- [github中文翻译地址 =>](https://github.com/fi3ework/blog/tree/master/react-typescript-cheatsheet-cn)
