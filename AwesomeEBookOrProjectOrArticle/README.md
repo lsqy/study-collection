@@ -385,3 +385,10 @@
 > 不错的一篇serverless文章，从前端的角度去看serverless带来的改变与可能性
 
 - [原文地址 =>](https://zhuanlan.zhihu.com/p/58877583)
+
+### 55、专为程序员编写的英语学习指南(于江水)
+
+> 文如其名，现在已经有6K+star，相信还是不错的一个指南，有需要的可以关注下
+
+- [github地址 =>](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
+- [文档地址 =>](https://a-programmers-guide-to-english.harryyu.me/)
