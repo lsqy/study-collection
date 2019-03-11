@@ -379,3 +379,9 @@
 > 基于 react-native 构建一个模拟外卖平台的原生APP
 
 - [github地址 =>](https://github.com/bailicangdu/RN-elm)
+
+### 54、精读《Serverless 给前端带来了什么》
+
+> 不错的一篇serverless文章，从前端的角度去看serverless带来的改变与可能性
+
+- [原文地址 =>](https://zhuanlan.zhihu.com/p/58877583)
