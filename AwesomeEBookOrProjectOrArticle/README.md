@@ -388,7 +388,7 @@
 
 ### 55、专为程序员编写的英语学习指南(于江水)
 
-> 文如其名，现在已经有6K+star，相信还是不错的一个指南，有需要的可以关注下
+> 文如其名，现在已经有6K+star，相信还是不错的一个指南，有需要的可以关注下,笔主从曾经四级442分到通过半年的准备，通过PTE 考试（类似雅思的英语水平测试）并拿到 63 分，对应雅思 6.5 中上，真的是很励志
 
 - [github地址 =>](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 - [文档地址 =>](https://a-programmers-guide-to-english.harryyu.me/)
