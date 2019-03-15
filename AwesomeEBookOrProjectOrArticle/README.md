@@ -1,6 +1,6 @@
 ## AwesomeEBook
 
-> 主要记录一些看到的优秀文章、文档、电子书、项目地址
+> 主要记录一些看到的优秀文章、文档、电子书、项目地址，主要来源于github
 
 ### 1、全栈工程师之路-Node.js
 
@@ -421,3 +421,10 @@
 - [github地址 =>](https://github.com/heyui/heyui)
 - [文档地址 =>](https://www.heyui.top/)
 - [后台管理系统github地址 =>](https://github.com/heyui/heyui-admin)
+
+### 60、css-animation-101
+
+> 学习如何将动画运用到你的项目当中，有很多非常不错的css动画
+
+- [github地址 =>](https://github.com/cssanimation/css-animation-101)
+- [文档地址 =>](https://cssanimation.rocks/)
