@@ -435,3 +435,10 @@
 
 - [github地址 =>](https://github.com/Microsoft/frontend-bootcamp)
 - [文档地址 =>](https://microsoft.github.io/frontend-bootcamp/)
+
+### 62、modern-js-cheatsheet
+
+> 在现代项目中经常遇到的JavaScript知识的备忘单
+
+- [github地址 =>](git@github.com:mbeaudru/modern-js-cheatsheet.git)
+- [文档地址 =>](https://mbeaudru.github.io/modern-js-cheatsheet/)
