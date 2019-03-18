@@ -440,5 +440,11 @@
 
 > 在现代项目中经常遇到的JavaScript知识的备忘单
 
-- [github地址 =>](git@github.com:mbeaudru/modern-js-cheatsheet.git)
+- [github地址 =>](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [文档地址 =>](https://mbeaudru.github.io/modern-js-cheatsheet/)
+
+### 63、taro-plugin-canvas
+
+> 基于 Taro 框架的微信小程序 canvas 绘图组件，封装了常用的操作，通过配置的方式生成分享图片,有时间可以学习下封装的思路以及实现方式
+
+- [github地址 =>](https://github.com/chuyun/taro-plugin-canvas)
