@@ -448,3 +448,11 @@
 > 基于 Taro 框架的微信小程序 canvas 绘图组件，封装了常用的操作，通过配置的方式生成分享图片,有时间可以学习下封装的思路以及实现方式
 
 - [github地址 =>](https://github.com/chuyun/taro-plugin-canvas)
+
+### 64、wechat-format
+
+> 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML,很有心的一个项目，很实用，对于希望能够快速在微信文章中使用的编辑器，是一个不错的选择
+
+- [github地址 =>](https://github.com/lyricat/wechat-format)
+- [体验地址 =>](https://lab.lyric.im/wxformat/)https://mp.weixin.qq.com/s/pn0LzyfgUj6rGUfVHUksjg
+- [文章地址 =>](https://mp.weixin.qq.com/s/pn0LzyfgUj6rGUfVHUksjg)
