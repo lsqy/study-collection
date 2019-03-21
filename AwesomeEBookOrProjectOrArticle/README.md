@@ -462,3 +462,9 @@
 > 轻量的一个创建图的库
 
 - [github地址 =>](https://github.com/pshihn/rough)
+
+### 66、wxParse
+
+> 微信小程序富文本解析自定义组件，支持HTML及markdown解析,在小程序中如果有需要展示存储在数据库上的html或者markdown时，可以使用它来进行实现，解决直接展示的问题
+
+- [github地址 =>](https://github.com/icindy/wxParse)
