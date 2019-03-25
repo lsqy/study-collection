@@ -468,3 +468,10 @@
 > 微信小程序富文本解析自定义组件，支持HTML及markdown解析,在小程序中如果有需要展示存储在数据库上的html或者markdown时，可以使用它来进行实现，解决直接展示的问题
 
 - [github地址 =>](https://github.com/icindy/wxParse)
+
+### 67、wux-weapp
+
+> 一套组件化、可复用、易扩展的微信小程序 UI 组件库 
+
+- [github地址 =>](https://github.com/wux-weapp/wux-weapp)
+- [文档地址 =>](https://wux-weapp.github.io/wux-weapp-docs/)
