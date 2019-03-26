@@ -475,3 +475,10 @@
 
 - [github地址 =>](https://github.com/wux-weapp/wux-weapp)
 - [文档地址 =>](https://wux-weapp.github.io/wux-weapp-docs/)
+
+### 68、react-pdf
+
+> 使用React创建pdf文件，非常实用的一个插件，如果在React项目中有需要生成pdf的需求时，是个不错的选择
+
+- [github地址 =>](https://github.com/diegomura/react-pdf)
+- [文档地址 =>](https://react-pdf.org/)
