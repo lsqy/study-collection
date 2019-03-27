@@ -482,3 +482,9 @@
 
 - [github地址 =>](https://github.com/diegomura/react-pdf)
 - [文档地址 =>](https://react-pdf.org/)
+
+### 69、awesome-python-login-model
+
+> python模拟登陆一些大型网站，还有一些简单的爬虫，如果想掌握模拟登陆，可以结合上面的demo进行学习
+
+- [github地址 =>](https://github.com/CriseLYJ/awesome-python-login-model)
