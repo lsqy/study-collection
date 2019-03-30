@@ -488,3 +488,9 @@
 > python模拟登陆一些大型网站，还有一些简单的爬虫，如果想掌握模拟登陆，可以结合上面的demo进行学习
 
 - [github地址 =>](https://github.com/CriseLYJ/awesome-python-login-model)
+
+### 70、vue-material-admin
+
+> 使用vue来实现的Material风格的后台管理系统组件
+
+- [github地址 =>](https://github.com/tookit/vue-material-admin)
