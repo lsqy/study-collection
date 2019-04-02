@@ -489,7 +489,13 @@
 
 - [github地址 =>](https://github.com/CriseLYJ/awesome-python-login-model)
 
-### 70、public-speaking-with-meaning
+### 70、vue-material-admin
+
+> 使用vue来实现的Material风格的后台管理系统组件
+
+- [github地址 =>](https://github.com/tookit/vue-material-admin)
+
+### 71、public-speaking-with-meaning
 
 > 《我也有话要说》—— 普通人的当众讲话技能 李笑来老师出品的，适用于想提高当众讲话技能的普通人
 
