@@ -488,3 +488,9 @@
 > python模拟登陆一些大型网站，还有一些简单的爬虫，如果想掌握模拟登陆，可以结合上面的demo进行学习
 
 - [github地址 =>](https://github.com/CriseLYJ/awesome-python-login-model)
+
+### 70、public-speaking-with-meaning
+
+> 《我也有话要说》—— 普通人的当众讲话技能 李笑来老师出品的，适用于想提高当众讲话技能的普通人
+
+- [github地址 =>](https://github.com/xiaolai/public-speaking-with-meaning)
