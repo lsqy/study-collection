@@ -531,3 +531,9 @@
 > 深入理解Node.js：核心思想与源码分析
 
 - [github地址 =>](https://github.com/yjhjstz/deep-into-node)
+
+### 75、Linux-Tutorial
+
+> 《Java 程序员眼中的 Linux》 `https://github.com/judasn/Linux-Tutorial`, 主要是一些在linux上配置开发环境的相关说明
+
+- [github地址 =>](https://github.com/judasn/Linux-Tutorial)
