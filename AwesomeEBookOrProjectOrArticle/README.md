@@ -537,3 +537,9 @@
 > 《Java 程序员眼中的 Linux》 `https://github.com/judasn/Linux-Tutorial`, 主要是一些在linux上配置开发环境的相关说明
 
 - [github地址 =>](https://github.com/judasn/Linux-Tutorial)
+
+### 76、ChromeAppHeroes
+
+> Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类
+
+- [github地址 =>](https://github.com/zhaoolee/ChromeAppHeroes)
