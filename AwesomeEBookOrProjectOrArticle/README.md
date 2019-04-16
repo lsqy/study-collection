@@ -549,3 +549,10 @@
 > Phodal的精品文章&项目的总结
 
 - [github地址 =>](https://github.com/phodal/summary)
+
+### 78、alibaba fusion design
+
+> 一套企业级中后台UI的解决方案，致力于解决设计师与前端在工作协同、产品体验一致性、开发效率方面的问题
+
+- [github地址 =>](https://github.com/alibaba-fusion/next/)
+- [官网地址 =>](https://fusion.design/)
