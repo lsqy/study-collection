@@ -556,3 +556,9 @@
 
 - [github地址 =>](https://github.com/alibaba-fusion/next/)
 - [官网地址 =>](https://fusion.design/)
+
+### 79、我在阿里云做前端 
+
+> 阿里云前端技术专家 城池做的分享，很不错
+
+- [原文地址 =>](https://yq.aliyun.com/articles/695361?spm=a2c4e.11155435.0.0.72811da2qb0P2A)
