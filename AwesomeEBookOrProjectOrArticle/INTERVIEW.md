@@ -26,3 +26,9 @@
 > 先后就职于阿里、腾讯、目前在腾讯发展，虽然目前上面的文章没几篇，但是先关注上，以备不时之需
 
 - [github地址 =>](https://github.com/airuikun/blog)
+
+### 4、leetcode题解
+
+> 里面记录了很多题解，刷算法可以借鉴下
+
+- [github地址 =>](https://github.com/azl397985856/leetcode)
