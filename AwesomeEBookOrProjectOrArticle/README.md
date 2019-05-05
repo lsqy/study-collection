@@ -562,3 +562,9 @@
 > 阿里云前端技术专家 城池做的分享，很不错
 
 - [原文地址 =>](https://yq.aliyun.com/articles/695361?spm=a2c4e.11155435.0.0.72811da2qb0P2A)
+
+### 80、https://github.com/jackfrued/Python-100-Days
+
+> Python - 100天从新手到大师,非常不错的python学习手册
+
+- [github地址 =>](https://github.com/jackfrued/Python-100-Days)
