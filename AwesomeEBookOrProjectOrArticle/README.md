@@ -568,3 +568,10 @@
 > Python - 100天从新手到大师,非常不错的python学习手册
 
 - [github地址 =>](https://github.com/jackfrued/Python-100-Days)
+
+### 81、PicGo的star数破1000的心路历程
+
+> 记录了笔者从自己的需求点出发，开发的一个开源项目的心路历程，可以借鉴下
+
+- [github地址 =>](https://github.com/Molunerfinn/PicGo)
+- [文章地址 =>](https://juejin.im/post/5b22333351882574874d8601)
