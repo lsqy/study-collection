@@ -32,3 +32,9 @@
 > 里面记录了很多题解，刷算法可以借鉴下
 
 - [github地址 =>](https://github.com/azl397985856/leetcode)
+
+### 6、职场瓶颈：2~4 年前端走出离职困境与舒适区
+
+> Scott写的心得体会
+
+- [原文地址 =>](https://juejin.im/post/5cd15648f265da038145eeb9)
