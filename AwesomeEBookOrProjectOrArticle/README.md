@@ -582,3 +582,9 @@
 
 - [github地址 =>](https://github.com/flutterchina/flutter-in-action)
 - [文章地址 =>](https://book.flutterchina.club/)
+
+### 83、《Flutter 入门指南》电子书
+
+> 不用多说，想学习的可以跟着这本书学起来
+
+- [github地址 =>](https://github.com/icepy/flutter-book)
