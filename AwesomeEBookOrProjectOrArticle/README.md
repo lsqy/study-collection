@@ -588,3 +588,9 @@
 > 不用多说，想学习的可以跟着这本书学起来
 
 - [github地址 =>](https://github.com/icepy/flutter-book)
+
+### 84、Web前端入门和进阶学习笔记
+
+> 超详细的前端学习图文教程。从零开始学前端，做一个Web全栈工程师。
+
+- [github地址 =>](https://github.com/qianguyihao/Web)
