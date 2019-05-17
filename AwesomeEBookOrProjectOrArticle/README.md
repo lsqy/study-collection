@@ -601,3 +601,9 @@
 
 - [github地址 =>](https://github.com/shengxinjing/programmer-job-blacklist)
 - [网站地址 =>](http://coder.shengxinjing.cn/)
+
+### 86、《阿里云前端技术周刊》
+
+> 本周刊由阿里云智能商业中台体验技术团队整理编写
+
+- [github地址 =>](https://github.com/aliyunfe/weekly)
