@@ -607,3 +607,9 @@
 > 本周刊由阿里云智能商业中台体验技术团队整理编写
 
 - [github地址 =>](https://github.com/aliyunfe/weekly)
+
+### 87、前端跨框架跨平台框架-omi
+
+> 腾讯开源的一款跨多端框架
+
+- [github地址 =>](https://github.com/Tencent/omi)
