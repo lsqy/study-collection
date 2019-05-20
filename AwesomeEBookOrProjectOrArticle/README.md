@@ -613,3 +613,9 @@
 > 腾讯开源的一款跨多端框架
 
 - [github地址 =>](https://github.com/Tencent/omi)
+
+### 88、精读《为什么专家不再关心技术细节》
+
+> 笔者有感而发的文章，很受用
+
+- [原文地址 =>](https://juejin.im/post/5ce2055f5188251cf708b3d2)
