@@ -619,3 +619,9 @@
 > 笔者有感而发的文章，很受用
 
 - [原文地址 =>](https://juejin.im/post/5ce2055f5188251cf708b3d2)
+
+### 89、hacker-laws-zh
+
+> 对开发人员有用的定律、理论、原则和模式。
+
+- [github地址 =>](https://github.com/nusr/hacker-laws-zh)
