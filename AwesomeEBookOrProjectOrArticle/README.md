@@ -625,3 +625,10 @@
 > 对开发人员有用的定律、理论、原则和模式。
 
 - [github地址 =>](https://github.com/nusr/hacker-laws-zh)
+
+### 90、Serverless 应用开发指南
+
+> Serverless入门很不错的指导，是[Phodal](https://github.com/phodal)精心编写，强力推荐！
+
+- [github地址 =>](https://github.com/phodal/serverless/)
+- [在线阅读地址 =>](https://serverless.ink/#fnref1)
