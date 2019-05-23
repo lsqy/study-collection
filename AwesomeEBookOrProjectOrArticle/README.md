@@ -631,4 +631,11 @@
 > Serverless入门很不错的指导，是[Phodal](https://github.com/phodal)精心编写，强力推荐！
 
 - [github地址 =>](https://github.com/phodal/serverless/)
-- [在线阅读地址 =>](https://serverless.ink/#fnref1)
+- [在线阅读地址 =>](https://serverless.ink/)
+
+### 91、GitHub 漫游指南
+
+> 如果你希望在github上打造一个让更多人知晓的项目，那么不妨一读
+
+- [github地址 =>](https://github.com/phodal/github)
+- [在线阅读地址 =>](https://github.phodal.com/)
