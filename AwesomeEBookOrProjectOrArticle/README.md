@@ -639,3 +639,9 @@
 
 - [github地址 =>](https://github.com/phodal/github)
 - [在线阅读地址 =>](https://github.phodal.com/)
+
+### 92、任正非思想
+
+> 任正非思想之路,越时空看华为大幕如何徐徐展开，观任正非大家成长进化，向优秀学习，与时代共舞
+
+- [github地址 =>](https://github.com/benmahr/RenZhengfei)
