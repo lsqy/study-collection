@@ -652,3 +652,18 @@
 
 - [github地址 =>](https://github.com/phodal/microfrontends)
 - [在线阅读地址 =>](https://microfrontend.cn/)
+
+### 94、大前端：前端的扩张
+
+> 还是[Phodal](https://www.phodal.com/)写的一篇不错的文章，下面简单从文章中节选几段知识点，也是面试经常会用到的
+
+#### 大前端的理解
+
+> 大前端是指通过 Web 开发相关的技术（WebView、JavaScript/TypeScript）所能开发、处理的领域。除了包含传统的 Web 前端相比，大前端还包含了——后端（Node.js 如 BFF 层、Serverless）、HTML 5 游戏、物联网、嵌入式应用、移动应用、桌面应用。它的显著特性是：一次开发，多种平台。
+
+#### BFF（Backends For Frontends ）
+
+> BFF，即 Backends For Frontends (服务于前端的后端)，也就是服务器设计 API 时会考虑客户端的使用情况，在服务端根据不同的设备类型，返回不同客户端所需要的结果。BFF 模式，这种模式不会为所有的客户端创建通用的 API。而是创建多个 BFF 服务：一个用于 Web 前端、一个用于移动客户端（甚至一个用于 iOS，另一个用于 Android）等等
+
+- [github地址 =>](https://github.com/phodal/frontend/)
+- [在线阅读地址 =>](https://javascript.ren/)
