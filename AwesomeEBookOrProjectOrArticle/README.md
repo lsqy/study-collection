@@ -645,3 +645,10 @@
 > 任正非思想之路,越时空看华为大幕如何徐徐展开，观任正非大家成长进化，向优秀学习，与时代共舞
 
 - [github地址 =>](https://github.com/benmahr/RenZhengfei)
+
+### 93、微前端的那些事儿
+
+> 笔者写的一些关于微前端的思想与实践，推荐一读
+
+- [github地址 =>](https://github.com/phodal/microfrontends)
+- [在线阅读地址 =>](https://microfrontend.cn/)
