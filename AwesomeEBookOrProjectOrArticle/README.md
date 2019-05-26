@@ -667,3 +667,9 @@
 
 - [github地址 =>](https://github.com/phodal/frontend/)
 - [在线阅读地址 =>](https://javascript.ren/)
+
+### 95、大型项目前端架构浅谈
+
+> 笔者写了一下自己对于前端架构的理解分析，还是值得一读，可以扩展下自己的全局思想
+
+- [在线阅读地址 =>](https://juejin.im/post/5cea1f705188250640005472)
