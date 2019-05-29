@@ -673,3 +673,9 @@
 > 笔者写了一下自己对于前端架构的理解分析，还是值得一读，可以扩展下自己的全局思想
 
 - [在线阅读地址 =>](https://juejin.im/post/5cea1f705188250640005472)
+
+### 96、Activity_PPT
+
+> 资料为FCC成都社区讲师的资源，请勿拿去作为商业用途,可以进行下阅读学习
+
+- [github地址 =>](https://github.com/FreeCodeCamp-Chengdu/Activity_PPT)
