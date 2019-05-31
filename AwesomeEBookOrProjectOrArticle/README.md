@@ -679,3 +679,10 @@
 > 资料为FCC成都社区讲师的资源，请勿拿去作为商业用途,可以进行下阅读学习
 
 - [github地址 =>](https://github.com/FreeCodeCamp-Chengdu/Activity_PPT)
+
+### 97、serverless上手
+
+> 下面会列举一些serverless的实战项目，方便快速体验serverless
+
+- [Serverless 应用开发指南： serverless 的 hello, world =>](https://www.phodal.com/blog/serverless-development-guid-serverless-framework-hello-world/)
+- [Serverless 应用开发指南：基于 Serverless 与 Lambda 的微信公共平台 =>](https://www.phodal.com/blog/serverless-development-guide-serverless-lambda-wechat-public-platform/)
