@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>DOMBasedXSS</title>
+</head>
+<body>
+  <div id="t"></div>
+  <input type="text" id="text" value="">
+  <button onClick="test()">write</button>
+  <script>
+    function test() {
+      var str = document.getElementById('text').value;
+      document.getElementById('t').innerHTML = "<a href='" + str + "' target='_blank'>testLink</a>";
+    }
+  </script>
+</body>
+</html>
