@@ -66,4 +66,4 @@ Elevation of Privilege(提升权限)|未经授权获得许可|授权
 
  - 存储型XSS
 
- - 
+ - DOM Based XSS
