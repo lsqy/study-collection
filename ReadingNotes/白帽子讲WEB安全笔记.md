@@ -56,4 +56,14 @@ Elevation of Privilege(提升权限)|未经授权获得许可|授权
 
 #### 跨站脚本攻击（XSS）
 
+- 定义
 
+跨站脚本攻击，英文全称是`Cross Site Script`，本来缩写是CSS，但是为了和层叠样式表（Cascading Style Sheet，CSS）有所区别，所以在安全领域叫做“XSS”。
+
+- 几种XSS的类型
+
+ - 反射性XSS
+
+ - 存储型XSS
+
+ - DOM Based XSS
