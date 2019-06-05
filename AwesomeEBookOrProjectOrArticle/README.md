@@ -686,3 +686,15 @@
 
 - [Serverless 应用开发指南： serverless 的 hello, world =>](https://www.phodal.com/blog/serverless-development-guid-serverless-framework-hello-world/)
 - [Serverless 应用开发指南：基于 Serverless 与 Lambda 的微信公共平台 =>](https://www.phodal.com/blog/serverless-development-guide-serverless-lambda-wechat-public-platform/)
+
+### 98、git rebase
+
+> 下面列举的这篇文章很好的讲解了git rebase到底起了什么作用
+
+- [文章地址 =>](http://gitbook.liuhui998.com/4_2.html)
+
+### 99、git社区精华知识点
+
+> 汇总了git的诸多知识点
+
+- [github地址 =>](https://github.com/liuhui998/gitbook)
