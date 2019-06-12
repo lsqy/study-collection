@@ -716,3 +716,9 @@
 > 笔者是一个android开发者，写的博客大多是自己日常的一些生活和工作上的记录，目前也有2800多star了，从这里来看，很多时候你并不是一定非要是一个能够写出框架的人才可以输出内容，其实随时都可以开始，坚持是重要的。
 
 - [github地址 =>](https://github.com/yangchong211/YCBlogs)
+
+### 103、Flutter完整开发实战详解系列，GSY Flutter 系列专栏整合，不定期更新
+
+> 本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
+
+- [在线阅读地址 =>](https://guoshuyu.cn/home/wx/)
