@@ -740,3 +740,9 @@
 > IOT领域比较不错的框架、库、操作系统、平台
 
 - [github地址 =>](https://github.com/phodal/awesome-iot)
+
+### 107、JAVA开发手册
+
+> 阿里内部重磅出品的开原电子手册，真的是很不错，如果希望在Java领域更进一步精进，可以精读此书，里面还包含精品课程：**Java从0到1学习路径**
+
+- [在线地址 =>](https://developer.aliyun.com/special/tech-java?spm=a2c41.13037006.0.0)
