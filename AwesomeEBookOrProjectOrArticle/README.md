@@ -734,3 +734,9 @@
 > 该开源项目是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
 
 - [github地址 =>](https://github.com/bilibili/kratos)
+
+### 106、awesome-iot
+
+> IOT领域比较不错的框架、库、操作系统、平台
+
+- [github地址 =>](https://github.com/phodal/awesome-iot)
