@@ -38,3 +38,9 @@
 > Scott写的心得体会
 
 - [原文地址 =>](https://juejin.im/post/5cd15648f265da038145eeb9)
+
+### 7、一个程序员的成长之路
+
+> 云龙在FDCon2018上的分享，读完真的很受用，能够让自己的脚步走的更深更稳，加油，自勉！！
+
+- [原文地址 =>](https://github.com/fouber/blog/issues/41)
