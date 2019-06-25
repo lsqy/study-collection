@@ -752,3 +752,9 @@
 > 目前已更新完毕
 
 - [github地址 =>](https://github.com/chenshenhai/koa2-note)
+
+### 109、编程之法：面试和算法心得
+
+> 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+
+- [github地址 =>](https://github.com/julycoding/The-Art-Of-Programming-By-July)
