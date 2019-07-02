@@ -764,3 +764,11 @@
 > GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 
 - [github地址 =>](https://github.com/GitHubDaily/GitHubDaily)
+
+### 111、EverydayWechat
+
+> 微信助手：1.每日定时给好友发送定制消息。2.自动回复好友。一个不错的python项目
+
+- [github地址 =>](https://github.com/sfyc23/EverydayWechat)
+
+<!-- EverydayWechat -->
