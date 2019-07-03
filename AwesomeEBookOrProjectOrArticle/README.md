@@ -771,4 +771,10 @@
 
 - [github地址 =>](https://github.com/sfyc23/EverydayWechat)
 
+### 112、vue-family-mindmap
+
+> 一张思维导图辅助你深入了解 Vue | Vue-Router | Vuex 源码与架构,整理的很用心，想要对vue全家桶深入了解的可以仔细看看
+
+- [github地址 =>](https://github.com/biaochenxuying/vue-family-mindmap)
+
 <!-- EverydayWechat -->
