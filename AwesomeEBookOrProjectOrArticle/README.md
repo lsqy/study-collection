@@ -777,4 +777,10 @@
 
 - [github地址 =>](https://github.com/biaochenxuying/vue-family-mindmap)
 
-<!-- EverydayWechat -->
+### 113、egg-react-ssr
+
+> 最小而美的Egg + React + SSR 服务端渲染应用骨架,优酷前端团队开源的
+
+- [github地址 =>](https://github.com/ykfe/egg-react-ssr)
+
+<!--  -->
