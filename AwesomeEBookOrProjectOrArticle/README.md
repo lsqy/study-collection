@@ -788,3 +788,9 @@
 > 学习正则表达式非常不错的指南
 
 - [github地址 =>](https://github.com/ziishaned/learn-regex)
+
+### 115、BizCharts
+
+> 阿里开源的根据G2和React研发的解决方案，当有这个场景需要的时候可以考虑使用
+
+- [github地址 =>](https://github.com/alibaba/BizCharts)
