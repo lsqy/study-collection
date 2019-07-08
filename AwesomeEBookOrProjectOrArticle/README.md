@@ -794,3 +794,9 @@
 > 阿里开源的根据G2和React研发的解决方案，当有这个场景需要的时候可以考虑使用
 
 - [github地址 =>](https://github.com/alibaba/BizCharts)
+
+### 116、Why-Reject
+
+> 苹果AppStore被拒理由大全
+
+- [github地址 =>](https://github.com/jcccn/Why-Reject)
