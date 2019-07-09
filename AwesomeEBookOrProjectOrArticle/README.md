@@ -800,3 +800,9 @@
 > 苹果AppStore被拒理由大全
 
 - [github地址 =>](https://github.com/jcccn/Why-Reject)
+
+### 117、cosin
+
+> 🌲 春松客服: 全渠道 智能 客服 https://www.chatopera.com/ 不错的开源客服系统
+
+- [github地址 =>](https://github.com/chatopera/cosin)
