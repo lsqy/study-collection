@@ -812,3 +812,9 @@
 > React 源码解析 https://reactjs.org
 
 - [github地址 =>](https://github.com/KieSun/react-interpretation)
+
+### 119、ChineseBQB
+
+> 🇨🇳Chinese sticker pack,More joy / 中国表情包大集合,更欢乐~ https://zhaoolee.github.io/ChineseBQB/
+
+- [github地址 =>](https://github.com/zhaoolee/ChineseBQB)
