@@ -818,3 +818,9 @@
 > 🇨🇳Chinese sticker pack,More joy / 中国表情包大集合,更欢乐~ https://zhaoolee.github.io/ChineseBQB/
 
 - [github地址 =>](https://github.com/zhaoolee/ChineseBQB)
+
+### 120、fullstack
+
+> React/ApolloGraphQL/Node/Mongo demo written in Typescript,不错的示例
+
+- [github地址 =>](https://github.com/TrillCyborg/fullstack)
