@@ -824,3 +824,9 @@
 > React/ApolloGraphQL/Node/Mongo demo written in Typescript,不错的示例
 
 - [github地址 =>](https://github.com/TrillCyborg/fullstack)
+
+### 121、awesome-react-hooks
+
+> 使用react-hooks的优秀案例
+
+- [github地址 =>](https://github.com/rehooks/awesome-react-hooks)
