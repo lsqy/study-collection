@@ -62,3 +62,9 @@
 > 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
 
 - [原文地址 =>](https://github.com/haizlin/fe-interview)
+
+### 11、interview_internal_reference
+
+> 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+
+- [原文地址 =>](https://github.com/0voice/interview_internal_reference)
