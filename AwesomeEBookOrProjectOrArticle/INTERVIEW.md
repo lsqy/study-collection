@@ -68,3 +68,9 @@
 > 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 
 - [原文地址 =>](https://github.com/0voice/interview_internal_reference)
+
+### 13、一个施工员转行成为前端开发
+
+> 笔者14年毕业一步一步的心路历程
+
+- [原文地址 =>](https://juejin.im/post/5d2ebe2de51d45599e019e6f)
