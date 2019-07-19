@@ -842,3 +842,9 @@
 > 蚂蚁金服高级技术专家陈成（云谦）发表了《蚂蚁金服前端框架和工程化实践》的演讲内容
 
 - [原文地址 =>](https://juejin.im/post/5d2ee768f265da1bd605da09)
+
+### 124、pan-light
+
+> 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 https://pan-light.peterq.cn
+
+- [github地址 =>](https://github.com/peterq/pan-light)
