@@ -848,3 +848,9 @@
 > 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 https://pan-light.peterq.cn
 
 - [github地址 =>](https://github.com/peterq/pan-light)
+
+### 125、faceai
+
+> 一款入门级的人脸、视频、文字检测以及识别的项目,使用python写的，对AI有兴趣的可以深入学习下
+
+- [github地址 =>](https://github.com/vipstone/faceai)
