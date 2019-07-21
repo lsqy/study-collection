@@ -7,3 +7,8 @@
 - [个人站点](https://tigercosmos.xyz/)
 - [medium个人博客](https://medium.com/coding-neutrino-blog)
 - [github地址](https://github.com/tigercosmos)
+
+### 2、纯洁的微笑
+
+- [个人站点](http://www.ityouknow.com/about.html)
+- [github地址](https://github.com/ityouknow)
