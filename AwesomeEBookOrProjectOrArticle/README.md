@@ -854,3 +854,10 @@
 > 一款入门级的人脸、视频、文字检测以及识别的项目,使用python写的，对AI有兴趣的可以深入学习下
 
 - [github地址 =>](https://github.com/vipstone/faceai)
+
+### 126、react-quill
+
+> 一个功能强大、兼容性不错的富文本编辑器
+
+- [github地址 =>](https://github.com/zenoamaro/react-quill)
+- [github地址 =>](https://github.com/quilljs/quill/)
