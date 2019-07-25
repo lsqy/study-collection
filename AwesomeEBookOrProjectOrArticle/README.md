@@ -867,3 +867,9 @@
 > 【前端进阶】优质博文
 
 - [github地址 =>](https://github.com/YvetteLau/Blog)
+
+### 128、yapi
+
+> YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 https://hellosean1025.github.io/yapi
+
+- [github地址 =>](https://github.com/YMFE/yapi)
