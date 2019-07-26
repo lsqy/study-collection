@@ -873,3 +873,10 @@
 > YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 https://hellosean1025.github.io/yapi
 
 - [github地址 =>](https://github.com/YMFE/yapi)
+
+### 129、vue-cli-analysis
+
+> vue-cli 源码分析 (vue-cli3) https://kuangpf.com/vue-cli-analysis/
+
+- [github地址 =>](https://github.com/KuangPF/vue-cli-analysis)
+- [原文地址 =>](https://kuangpf.com/vue-cli-analysis/)
