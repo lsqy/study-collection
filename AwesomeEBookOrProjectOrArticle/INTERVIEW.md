@@ -74,3 +74,7 @@
 > 笔者14年毕业一步一步的心路历程
 
 - [原文地址 =>](https://juejin.im/post/5d2ebe2de51d45599e019e6f)
+
+### 14、简历参考
+
+- [原文地址 =>](https://github.com/azl397985856/resume/blob/master/resume.pdf)
