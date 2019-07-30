@@ -880,3 +880,9 @@
 
 - [github地址 =>](https://github.com/KuangPF/vue-cli-analysis)
 - [原文地址 =>](https://kuangpf.com/vue-cli-analysis/)
+
+### 130、awesome-architecture
+
+> 架构师技术图谱，助你早日成为架构师,就像这句话，希望早日你能够达到
+
+- [github地址 =>](https://github.com/toutiaoio/awesome-architecture)
