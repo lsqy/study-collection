@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>twoSum</title>
+</head>
+<body>
+  <script>
+    const nums = [2, 11, 7, 15];
+    const target = 9;
+    var twoSum = function(nums, target) {
+      var hashMap = {}; // 声明一个对象
+      for(var i = 0; i < nums.length; i++) {
+          var val = nums[i];
+          var delta = target - val; // 假设有这个值，按照题目所示，应该是target - val，所以接下来就是在这个hash对象中查找出这个值就是了
+          var deltaIdx = hashMap[delta];
+          if(deltaIdx !== undefined && deltaIdx !== i) {
+              return [deltaIdx, i];
+          }
+          hashMap[val] = i;
+      }
+      return [];
+    };
+    // console.log('result', twoSum(nums, target))
+    /* var twoSum2 = function(nums, target) {
+        for(var i = 0; i < nums.length; i++) {
+          var val = nums[i];
+          for (var j = i + 1; j < nums.length; j++) {
+            if (val + nums[j] === target) {
+              return [i, j]
+            }
+          }
+        }
+        return [];
+    }; */
+    console.log('twoSum2=>result', twoSum2(nums, target))
+  </script>
+</body>
+</html>
