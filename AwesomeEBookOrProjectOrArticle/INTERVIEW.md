@@ -86,4 +86,11 @@
 - [github地址 =>](https://github.com/azl397985856/fe-interview)
 - [在线阅读地址 =>](https://lucifer.ren/fe-interview)
 
+### 16、小蝌蚪系列：三年大厂面试官——二面题（偏难）
+
+> 笔者在大厂工作了6年，当了3年的前端面试官，把大厂常问的面试题与答案汇总在我的Github中。希望对大家有所帮助。
+
+- [github地址 =>](https://github.com/airuikun/Weekly-FE-Interview)
+- [掘金地址 =>](https://juejin.im/post/5d46f433e51d4561ca2121fc)
+
 
