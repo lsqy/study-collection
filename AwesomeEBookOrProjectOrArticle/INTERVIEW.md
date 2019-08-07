@@ -93,4 +93,11 @@
 - [github地址 =>](https://github.com/airuikun/Weekly-FE-Interview)
 - [掘金地址 =>](https://juejin.im/post/5d46f433e51d4561ca2121fc)
 
+### 17、Awesome-offer
+
+> 关于面试/谈Offer/程序员职场生涯等,笔者是一位猎头（猎头麦），坚持在github上记录自己的见闻，他的github也值得关注
+
+- [github地址 =>](https://github.com/lietoumai/Awesome-offer)
+- [github地址 =>](https://github.com/lietoumai)
+
 
