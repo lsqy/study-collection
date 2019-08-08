@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>百钱买白鸡</title>
+</head>
+<body>
+  <script>
+    // 我国古代数学家[张丘建](https://baike.so.com/doc/7529330-7803423.html)在<<算经>>中有一道题：“鸡翁一，值钱五；鸡母一，值钱三；鸡雏三，值钱一。百钱买白鸡，问鸡翁、鸡母、鸡雏各几何？
+    function method01() {
+      let a, b, c
+      document.write(`百元买百鸡的问题所有可能的解如下: <br/>`)
+      for (a = 0; a <= 100/5; a++) {
+        for (b = 0; b <= (100-a*5)/3; b++) {
+          c = (100-a*5-b*3)*3
+          if (a + b + c === 100) {
+            document.write(`鸡翁有${a}只，鸡母有${b}只，鸡雏有${c}只<br/>`)
+          } 
+        }
+      }
+    }
+    method01()
+  </script>
+</body>
+</html>
