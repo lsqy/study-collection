@@ -1,3 +1,10 @@
+<!--
+ * @Description: In User Settings Edit
+ * @Author: your name
+ * @Date: 2019-08-06 10:04:17
+ * @LastEditTime: 2019-08-12 20:27:02
+ * @LastEditors: Please set LastEditors
+ -->
 ## AwesomeEBookOrProjectOrArticle
 
 > 主要记录一些看到的优秀文章、文档、电子书、项目地址，主要来源于github
@@ -892,4 +899,9 @@
 > 一些有关于CSS的奇技淫巧，作者在css领域还是比较专注的
 
 - [github地址 =>](https://github.com/chokcoco/iCSS)
-- [github地址 =>](https://github.com/chokcoco/iCSS)
+
+### 132、Front-end-tutorial
+
+> 笔者总结的前端回忆录
+
+- [github地址 =>](https://github.com/windiest/Front-end-tutorial)
