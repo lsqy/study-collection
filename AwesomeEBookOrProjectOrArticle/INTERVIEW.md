@@ -100,4 +100,8 @@
 - [github地址 =>](https://github.com/lietoumai/Awesome-offer)
 - [github地址 =>](https://github.com/lietoumai)
 
+### 18、resume
 
+> 作者目前在美团就职，简历做的是相当简洁，能够很好的提炼出自己的技能点，可以进行参考
+
+- [github地址 =>](https://github.com/gwuhaolin/resume)
