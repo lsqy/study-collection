@@ -905,3 +905,9 @@
 > 笔者总结的前端回忆录
 
 - [github地址 =>](https://github.com/windiest/Front-end-tutorial)
+
+### 133、go-fundamental-programming
+
+> 《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。作为新手，可以看一下
+
+- [github地址 =>](https://github.com/unknwon/go-fundamental-programming)
