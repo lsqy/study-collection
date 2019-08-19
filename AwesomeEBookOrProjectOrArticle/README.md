@@ -2,7 +2,7 @@
  * @Description: In User Settings Edit
  * @Author: your name
  * @Date: 2019-08-06 10:04:17
- * @LastEditTime: 2019-08-12 20:27:02
+ * @LastEditTime: 2019-08-19 20:54:08
  * @LastEditors: Please set LastEditors
  -->
 ## AwesomeEBookOrProjectOrArticle
@@ -911,3 +911,9 @@
 > 《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。作为新手，可以看一下
 
 - [github地址 =>](https://github.com/unknwon/go-fundamental-programming)
+
+### 134、You-Dont-Know-JS
+
+> 可以说是在js领域非常不错的一个系列了,值得好好研读
+
+- [github地址 =>](https://github.com/getify/You-Dont-Know-JS)
