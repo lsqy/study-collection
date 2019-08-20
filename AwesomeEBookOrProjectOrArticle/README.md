@@ -2,7 +2,7 @@
  * @Description: In User Settings Edit
  * @Author: your name
  * @Date: 2019-08-06 10:04:17
- * @LastEditTime: 2019-08-19 20:54:08
+ * @LastEditTime: 2019-08-20 19:34:02
  * @LastEditors: Please set LastEditors
  -->
 ## AwesomeEBookOrProjectOrArticle
@@ -917,3 +917,9 @@
 > 可以说是在js领域非常不错的一个系列了,值得好好研读
 
 - [github地址 =>](https://github.com/getify/You-Dont-Know-JS)
+
+### 135、remax
+
+> 全新的小程序开发体验 https://remaxjs.org, 使用真正的 React 构建小程序
+
+- [github地址 =>](https://github.com/remaxjs/remax)
