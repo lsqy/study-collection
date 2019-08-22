@@ -2,7 +2,7 @@
  * @Description: In User Settings Edit
  * @Author: your name
  * @Date: 2019-08-06 10:04:17
- * @LastEditTime: 2019-08-20 19:34:02
+ * @LastEditTime: 2019-08-22 19:50:19
  * @LastEditors: Please set LastEditors
  -->
 ## AwesomeEBookOrProjectOrArticle
@@ -923,3 +923,9 @@
 > 全新的小程序开发体验 https://remaxjs.org, 使用真正的 React 构建小程序
 
 - [github地址 =>](https://github.com/remaxjs/remax)
+
+### 136、free-books
+
+> 阮老师总结的互联网上的免费书籍清单
+
+- [github地址 =>](https://github.com/ruanyf/free-books)
