@@ -2,7 +2,7 @@
  * @Description: In User Settings Edit
  * @Author: your name
  * @Date: 2019-08-16 21:26:17
- * @LastEditTime: 2019-08-16 21:30:18
+ * @LastEditTime: 2019-08-23 18:26:32
  * @LastEditors: Please set LastEditors
  -->
 ## interview
@@ -118,3 +118,9 @@
 > LeetCode题解，151道题完整版
 
 - [github地址 =>](https://github.com/soulmachine/leetcode)
+
+### 20、前端该如何准备数据结构和算法？
+
+> 介绍的还是挺用心的，可以研读下
+
+- [掘金地址 =>](https://juejin.im/post/5d5b307b5188253da24d3cd1)
