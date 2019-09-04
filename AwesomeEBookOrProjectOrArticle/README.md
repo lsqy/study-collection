@@ -929,3 +929,9 @@
 > 阮老师总结的互联网上的免费书籍清单
 
 - [github地址 =>](https://github.com/ruanyf/free-books)
+
+### 137、DevMoneySharing
+
+> 独立开发者赚钱经验分享
+
+- [github地址 =>](https://github.com/loonggg/DevMoneySharing)
