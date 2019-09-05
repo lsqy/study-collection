@@ -935,3 +935,9 @@
 > 独立开发者赚钱经验分享
 
 - [github地址 =>](https://github.com/loonggg/DevMoneySharing)
+
+### 138、mostly-adequate-guide-chinese
+
+> JS 函数式编程指南中文版
+
+- [github地址 =>](https://github.com/llh911001/mostly-adequate-guide-chinese)
