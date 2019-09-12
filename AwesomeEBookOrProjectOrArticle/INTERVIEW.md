@@ -136,3 +136,9 @@
 > 来自于砖家的博客
 
 - [github地址 =>](https://github.com/brickspert/blog)
+
+### 23、daily
+
+> 一份搜集的前端面试题目清单+面试相关的文章
+
+- [github地址 =>](https://github.com/pwstrick/daily)
