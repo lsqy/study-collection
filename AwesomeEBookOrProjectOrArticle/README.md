@@ -941,3 +941,9 @@
 > JS 函数式编程指南中文版
 
 - [github地址 =>](https://github.com/llh911001/mostly-adequate-guide-chinese)
+
+### 139、ky
+
+> 基于`window.fetch`的一个`HTTP client`
+
+- [github地址 =>](https://github.com/sindresorhus/ky)
