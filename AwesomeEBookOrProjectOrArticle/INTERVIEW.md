@@ -150,3 +150,9 @@
 于是有大牛就把后端 MVC 的开发思维搬到前端，**将应用中所有的动作与状态都统一管理，让一切有据可循**
 
 - [github地址 =>](https://github.com/kenberkeley/redux-simple-tutorial)
+
+### 25、大揭秘！“恐怖”的阿里一面，我究竟想问什么
+
+> 一篇总结的不错的文章
+
+- [github地址 =>](https://github.com/Nealyang/PersonalBlog/issues/50)
