@@ -156,3 +156,9 @@
 > 一篇总结的不错的文章
 
 - [github地址 =>](https://github.com/Nealyang/PersonalBlog/issues/50)
+
+### 26、技术面试最后反问面试官的话
+
+> 反向面试要注意的一些点
+
+- [github地址 =>](https://github.com/yifeikong/reverse-interview-zh)
