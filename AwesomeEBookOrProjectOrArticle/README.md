@@ -957,3 +957,9 @@
 >  Flutter 练习项目(包含集成测试)。包括完整UI设计图，更贴近真实项目的练习
 
 - [github地址 =>](https://github.com/simplezhli/flutter_deer)
+
+### 142、React 学习之道
+
+>  The Road to learn React (简体中文版) | 最简单，且最实用的 React 实战教程。
+
+- [github地址 =>](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese)
