@@ -963,3 +963,12 @@
 >  The Road to learn React (简体中文版) | 最简单，且最实用的 React 实战教程。
 
 - [github地址 =>](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese)
+
+### 143、30-seconds-of-css
+
+>  30秒CSS中文版 您可以在30秒或更短的时间内了解的有用的CSS代码片段。
+
+- [github地址 =>](https://github.com/kujian/30-seconds-of-css)
+
+
+
