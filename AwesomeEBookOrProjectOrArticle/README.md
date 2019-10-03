@@ -970,5 +970,11 @@
 
 - [github地址 =>](https://github.com/kujian/30-seconds-of-css)
 
+### 144、Mac 终端效率神技
+
+>  提高mac下开发效率的一些工具和技巧
+
+- [掘金地址 =>](https://juejin.im/post/5d91a07d6fb9a04de96e7cb0)
+
 
 
