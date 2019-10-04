@@ -162,3 +162,9 @@
 > 反向面试要注意的一些点
 
 - [github地址 =>](https://github.com/yifeikong/reverse-interview-zh)
+
+### 27、《javascript高级程序设计》核心知识总结
+
+> 总结的还是比较全面和细心的，可以帮助巩固下基础知识
+
+- [掘金地址 =>](https://juejin.im/post/5d8c86d06fb9a04e172071a0)
