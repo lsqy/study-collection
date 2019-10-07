@@ -168,3 +168,9 @@
 > 总结的还是比较全面和细心的，可以帮助巩固下基础知识
 
 - [掘金地址 =>](https://juejin.im/post/5d8c86d06fb9a04e172071a0)
+
+### 28、Web
+
+> 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。
+
+- [github地址 =>](https://github.com/qianguyihao/Web)
