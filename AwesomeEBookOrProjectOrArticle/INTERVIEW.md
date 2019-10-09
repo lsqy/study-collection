@@ -174,3 +174,9 @@
 > 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。
 
 - [github地址 =>](https://github.com/qianguyihao/Web)
+
+### 29、1.5万字概括ES6全部特性
+
+> 文章里的图文总结的很不错
+
+- [掘金地址 =>](https://juejin.im/post/5d9bf530518825427b27639d)
