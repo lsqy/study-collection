@@ -180,3 +180,9 @@
 > 文章里的图文总结的很不错
 
 - [掘金地址 =>](https://juejin.im/post/5d9bf530518825427b27639d)
+
+### 30、algorithm
+
+> 常用算法和数据结构讲解，面试算法题/leetcode解题，提供golang/js版本,笔者现在是在`bytedance`,他的`github`也可以关注下
+
+- [github地址 =>](https://github.com/qieguo2016/algorithm)
