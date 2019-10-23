@@ -1014,5 +1014,13 @@
 
 - [github地址 =>](https://github.com/hollischuang/toBeTopJavaer)
 
+### 152、发布vue相关npm插件包参考仓库地址
+
+>  记录了下如果想要发布一个自己的npm包时的参考资料
+
+- [github地址 =>](https://github.com/mengdu/vue-component-devtool)
+- [github地址 =>](https://github.com/echo-lu/mini-sliders)
+- [掘金地址 =>](https://juejin.im/post/5b96586de51d450e7d0984a6)
+
 
 
