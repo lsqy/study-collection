@@ -192,3 +192,10 @@
 > 技术面试最后反问面试官的话
 
 - [github地址 =>](https://github.com/yifeikong/reverse-interview-zh)
+
+### 32、Vue.js 技术揭秘
+
+> 黄轶老师写的vue源码解析，如果想要学习vue源码，非常推荐进行阅读
+
+- [全文阅读地址 =>](https://ustbhuangyi.github.io/vue-analysis/)
+- [掘金地址 =>](https://juejin.im/post/5dafe42451882576534d3858)
