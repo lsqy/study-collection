@@ -1022,5 +1022,13 @@
 - [github地址 =>](https://github.com/echo-lu/mini-sliders)
 - [掘金地址 =>](https://juejin.im/post/5b96586de51d450e7d0984a6)
 
+### 153、nuxt部署参考实践
+
+>  记录的这几篇部署的文章写的很详情，当有这方面需要的时候可以借鉴下
+
+- [github地址 基于Nuxt的企业官网=>](https://github.com/Sandop/NuxtPC)
+- [github地址 基于Nuxt实现移动端的企业官网=>](https://github.com/Sandop/Nuxt-phone)
+- [掘金地址 =>](https://juejin.im/post/5b863a93e51d4538884d2772)
+
 
 
