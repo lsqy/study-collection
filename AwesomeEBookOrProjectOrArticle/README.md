@@ -1030,5 +1030,10 @@
 - [github地址 基于Nuxt实现移动端的企业官网=>](https://github.com/Sandop/Nuxt-phone)
 - [掘金地址 =>](https://juejin.im/post/5b863a93e51d4538884d2772)
 
+### 154、Webpack 4 配置最佳实践
+
+>  蚂蚁金服.数据体验技术团队输出的
+
+- [github地址 =>](https://github.com/ProtoTeam/blog/blob/master/201806/3.md)
 
 
