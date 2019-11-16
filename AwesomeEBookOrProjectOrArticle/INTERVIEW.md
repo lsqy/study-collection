@@ -199,3 +199,9 @@
 
 - [全文阅读地址 =>](https://ustbhuangyi.github.io/vue-analysis/)
 - [掘金地址 =>](https://juejin.im/post/5dafe42451882576534d3858)
+
+### 33、不错的一个前端领域知识总结
+
+> 笔者将自己的知识用心地进行了汇总，是以一本书的格式来进行开展的，里面列出的这几章都是很不错的总结，值得一看
+
+- [github地址 =>](https://github.com/azl397985856/automate-everything)
