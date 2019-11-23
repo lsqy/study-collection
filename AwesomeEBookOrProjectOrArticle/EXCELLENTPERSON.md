@@ -12,3 +12,9 @@
 
 - [个人站点](http://www.ityouknow.com/about.html)
 - [github地址](https://github.com/ityouknow)
+
+### 3、敖小剑的博客
+
+> 目前从业17年，现阶段专注于Servicemesh的布道，现在在蚂蚁金服，从他的一路走来可以看出来，要一直学会认真总结，有一定的深度，产出一些真正的东西出来，自己要加油
+
+- [个人站点](https://skyao.io/post/201802-getting-started/)
