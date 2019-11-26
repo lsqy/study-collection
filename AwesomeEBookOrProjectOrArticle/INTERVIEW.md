@@ -205,3 +205,9 @@
 > 笔者将自己的知识用心地进行了汇总，是以一本书的格式来进行开展的，里面列出的这几章都是很不错的总结，值得一看
 
 - [github地址 =>](https://github.com/azl397985856/automate-everything)
+
+### 34、algo
+
+> 数据结构和算法必知必会的50个代码实现，《数据结构和算法之美》专栏作者王争
+
+- [github地址 =>](https://github.com/wangzheng0822/algo)
