@@ -59,13 +59,13 @@
 
 > 分享 GitHub 上有趣、入门级的开源项目,可以在这个上面找到多领域的一些项目
 
-[github地址 =>](https://github.com/521xueweihan/HelloGitHub)
+- [github地址 =>](https://github.com/521xueweihan/HelloGitHub)
 
 ### 9、git-tips
 
 > Git的奇技淫巧,基本上覆盖了你需要用到的各种git命令，如果之前从未使用过Git，那可以先从[Git小白教程](http://rogerdudler.github.io/git-guide/index.zh.html)开始
 
-[github地址 =>](https://github.com/521xueweihan/git-tips)
+- [github地址 =>](https://github.com/521xueweihan/git-tips)
 
 ### 10、github api相关
 
