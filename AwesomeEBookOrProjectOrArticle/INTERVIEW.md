@@ -224,3 +224,16 @@
 
 - [github地址 =>](https://github.com/lefex/FE)
 - [文章地址 =>](https://lefex.github.io/)
+
+### 37、tech-interview-handbook
+
+> 帮助你在下一次技术面试中取得好成绩，这个项目目前已经获得了3.7w `star`,可以说是一个很精品的项目了，推荐大家有兴趣可以学习下
+
+- [github地址 =>](https://github.com/yangshun/tech-interview-handbook)
+- [文章地址 =>](https://yangshun.github.io/tech-interview-handbook/)
+
+### 38、front-end-interview-handbook
+
+> 目前已有2.2w `star`,有助于自己整理自己的知识体系
+
+- [github地址 =>](https://github.com/yangshun/front-end-interview-handbook)

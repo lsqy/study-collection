@@ -24,3 +24,10 @@
 > 这次提到的这个作者是95年的，出版了深入浅出VueJS一书，这本书也是受到了广大读者的好评，一路走来，作者真的不容易，再看看自己，还是有些惭愧，要更深入的去产出东西！！不要给自己设限，不要否定自己，加油吧，陌生人。
 
 - [github地址](https://github.com/berwin/Blog)
+
+### 4、yangshun
+
+> `yangshun`目前在`facebook`担任高级前端技术专家，在github上也是非常活跃，关注者也是众多，他的两个项目受到的关注度非常之高，分别是[tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)、[front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+
+- [github地址](https://github.com/yangshun)
+- [个人站点](https://yangshun.im/)
