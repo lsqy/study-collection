@@ -31,3 +31,12 @@
 
 - [github地址](https://github.com/yangshun)
 - [个人站点](https://yangshun.im/)
+
+### 5、几个一定不要错过的团队博客
+
+> 有很多优质内容输出，增长自己的知识深度和广度，学就完了～
+
+- [淘系前端团队](https://fed.taobao.org/)
+- [百度FEX](http://fex.baidu.com/)
+- [京东-凹凸实验室](https://aotu.io/notes/)
+- [腾讯AlloyTeam](http://www.alloyteam.com/)
