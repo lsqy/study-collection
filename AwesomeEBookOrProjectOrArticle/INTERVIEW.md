@@ -237,3 +237,9 @@
 > 目前已有2.2w `star`,有助于自己整理自己的知识体系
 
 - [github地址 =>](https://github.com/yangshun/front-end-interview-handbook)
+
+### 39、laizimo/zimo-article
+
+> 输出的文章很有质量，有时间的时候可以看一看
+
+- [github地址 =>](https://github.com/laizimo/zimo-article)
