@@ -243,3 +243,9 @@
 > 输出的文章很有质量，有时间的时候可以看一看
 
 - [github地址 =>](https://github.com/laizimo/zimo-article)
+
+### 40、qianguyihao/Web
+
+> 前端入门与进阶笔记，入门以及巩固知识都可以查看
+
+- [github地址 =>](https://github.com/qianguyihao/Web)
