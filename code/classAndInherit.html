@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>javascript实现类与继承</title>
+</head>
+<body>
+    <script>
+        // js实现类的4种方法
+
+        // 工厂方法
+        function creatPerson(name, age) {
+            var obj = new Object()
+            obj.name = name
+            obj.age = age
+            obj.sayName = function() {
+                console.log(this.name)
+            }
+            return obj
+        }
+
+        // 构造函数方法
+        function Person(name, age) {
+            this.name = name
+            this.age = age
+
+            this.sayName = function() {
+                console.log(this.name)
+            }
+        }
+
+        // 原型方法
+        function Person() {
+
+        }
+        // 下面这样会导致类里的属性都在原型中定义的
+        Person.prototype = {
+            constructor: Person,
+            name: 'xiaoming',
+            age: 22,
+            sayName: function() {
+                console.log(this.name)
+            },
+            increasedAge: function() {
+                this.age++
+            }
+        }
+
+        // 组合构造函数和原型方法（常用）
+        function Person(name, age) {
+            this.name = name
+            this.age = age
+        }
+        Person.prototype = {
+            constructor: Person,
+            sayName: function() {
+                console.log(this.name)
+            }
+        }
+
+        // js实现继承的3种方法
+        // 借用构造函数（经典继承）
+        function SuperType(name) {
+            this.name = name
+            this.sayName = function() {
+                console.log(this.name)
+            }
+        }
+
+        function SubType(name, age) {
+            SuperType.call(this, name)
+            this.age = age
+        }
+
+        // 对象冒充
+        function SuperType(name) {
+            this.name = name
+            this.sayName = function() {
+                console.log(this.name)
+            }
+        }
+        function SubType(name, age) {
+            this.supertype = SuperType //在这里使用了对象冒充
+            this.supertype(name) // 这里其实是运用了借用this的感觉，因为相当于是通过SubType new出来的对象的this调用superType
+
+            this.age = age
+        }
+
+
+        // 组合继承（最常用）
+
+        function SuperType(name) {
+            this.name = name;
+        }
+            
+        SuperType.prototype = {
+            sayName : function() {
+                window.alert(this.name);
+            }
+        };
+            
+        function SubType(name, age) {
+            SuperType.call(this, name); //在这里继承属性
+            this.age = age;
+        }
+
+        SubType.prototype = new SuperType(); //这里继承方法
+    </script>
+</body>
+</html>
