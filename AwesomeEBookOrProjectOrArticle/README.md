@@ -1048,3 +1048,9 @@
 >  万物皆可 RSS ，一个有意思的项目 
 
 - [github地址 =>](https://github.com/DIYgod/RSSHub)
+
+### 157、第十三届 D2 前端技术论坛精彩回顾[附PPT]
+
+> 这些PPT你值得拥有～
+
+- [语雀地址 =>](https://www.yuque.com/d2forum/content/d213)
