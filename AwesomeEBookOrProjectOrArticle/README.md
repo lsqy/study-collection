@@ -1054,3 +1054,9 @@
 > 这些PPT你值得拥有～
 
 - [语雀地址 =>](https://www.yuque.com/d2forum/content/d213)
+
+### 158、webpack-box
+
+> 有关于webpack的相关最佳实践，覆盖的的还是比较全的
+
+- [github地址 =>](https://github.com/luoxue-victor/webpack-box)
