@@ -1060,3 +1060,9 @@
 > 有关于webpack的相关最佳实践，覆盖的的还是比较全的
 
 - [github地址 =>](https://github.com/luoxue-victor/webpack-box)
+
+### 159、前端管理交流群-语雀分享
+
+> 由`Scott`发起的一个交流组织，沉淀下来了很多有用的想法，值得你进行深入地去阅读思考
+
+- [语雀地址 =>](https://www.yuque.com/iscott/tl)

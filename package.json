@@ -1,0 +1,30 @@
+{
+  "name": "study-collection",
+  "version": "1.0.0",
+  "description": "> 记录一些自己平时觉得不错的项目或文章，以便进行分析学习，也能够汇总积累起来，学无止境，加油吧～",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsqy/study-collection.git"
+  },
+  "keywords": [
+    "notes"
+  ],
+  "author": "lsqy93@aliyun.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsqy/study-collection/issues"
+  },
+  "homepage": "https://github.com/lsqy/study-collection#readme",
+  "devDependencies": {
+    "husky": "^3.1.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "echo \"this should fail\" && exit 1"
+    }
+  }
+}
