@@ -1066,3 +1066,9 @@
 > 由`Scott`发起的一个交流组织，沉淀下来了很多有用的想法，值得你进行深入地去阅读思考
 
 - [语雀地址 =>](https://www.yuque.com/iscott/tl)
+
+### 160、Flutter优秀学习项目-github
+
+> gsy系列
+
+- [github地址 =>](https://github.com/CarGuo/gsy_github_app_flutter)
