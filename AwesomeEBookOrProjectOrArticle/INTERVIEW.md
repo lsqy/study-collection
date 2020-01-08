@@ -249,3 +249,9 @@
 > 前端入门与进阶笔记，入门以及巩固知识都可以查看
 
 - [github地址 =>](https://github.com/qianguyihao/Web)
+
+### 41、日问（Daily-Question）
+
+> 每天一道面试题，有关前端，后端，devops以及软技能，促进职业成长，敲开大厂之门。 [https://q.shanyue.tech](https://q.shanyue.tech)
+
+- [github地址 =>](https://github.com/shfshanyue/Daily-Question)
