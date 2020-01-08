@@ -252,6 +252,6 @@
 
 ### 41、日问（Daily-Question）
 
-> 每天一道面试题，有关前端，后端，devops以及软技能，促进职业成长，敲开大厂之门。 [https://q.shanyue.tech](https://q.shanyue.tech)
+> 每天一道面试题，有关前端，后端，devops以及软技能，促进职业成长，敲开大厂之门。 [https://q.shanyue.tech](https://q.shanyue.tech),笔者山月是一个很勤奋的人，维护的博客也是值得一看的
 
 - [github地址 =>](https://github.com/shfshanyue/Daily-Question)
