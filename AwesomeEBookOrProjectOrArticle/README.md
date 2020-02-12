@@ -1077,3 +1077,10 @@
 
 - [掘金地址 =>](https://juejin.im/post/5de470a55188256e885f4fb7)
 
+### 162、Learn-Vue-Source-Code
+
+> vue源码逐行分析
+
+- [github地址 =>](https://github.com/NLRX-WJC/Learn-Vue-Source-Code)
+- [在线阅读地址 =>](https://nlrx-wjc.github.io/Learn-Vue-Source-Code/)
+
