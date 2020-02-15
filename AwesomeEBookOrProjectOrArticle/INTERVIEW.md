@@ -262,3 +262,8 @@
 
 - [github地址 =>](https://github.com/CyC2018/CS-Notes)
 - [在线阅读地址 =>](https://cyc2018.github.io/CS-Notes/#/)
+
+### 43、五分钟学算法系列
+
+- [在线阅读地址 =>](https://www.cxyxiaowu.com/)
+- [github地址 =>](https://github.com/MisterBooo/LeetCodeAnimation)
