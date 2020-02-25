@@ -267,3 +267,9 @@
 
 - [在线阅读地址 =>](https://www.cxyxiaowu.com/)
 - [github地址 =>](https://github.com/MisterBooo/LeetCodeAnimation)
+
+### 44、Waking-Up
+
+> 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试...
+
+- [github地址 =>](https://github.com/wolverinn/Waking-Up)
