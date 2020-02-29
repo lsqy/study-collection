@@ -276,6 +276,6 @@
 
 ### 45、labuladong/fucking-algorithm
 
-> labuladong的算法小抄，手把手撕LeetCode题目，扒各种算法套路的裤子，不仅how，还有why。
+> labuladong的算法小抄，手把手撕LeetCode题目，扒各种算法套路的裤子，不仅how，还有why，文章描述的很通俗易懂，很适合初学者进行算法学习
 
 - [github地址 =>](https://github.com/labuladong/fucking-algorithm)
