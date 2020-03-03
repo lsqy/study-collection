@@ -279,3 +279,9 @@
 > labuladong的算法小抄，手把手撕LeetCode题目，扒各种算法套路的裤子，不仅how，还有why，文章描述的很通俗易懂，很适合初学者进行算法学习
 
 - [github地址 =>](https://github.com/labuladong/fucking-algorithm)
+
+### 46、精品简历参考-Blankj
+
+> 他的简历虽然不是炫酷的那种，但是是非常适合技术人的，可以多关注下他的github，上面有很多重量级的开源项目和面经，凸显出来开源输出的重要性，既能加强自身技术实力，又可以提高影响力
+
+- [github地址 =>](https://github.com/Blankj/resume)
