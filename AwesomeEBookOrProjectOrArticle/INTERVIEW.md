@@ -285,3 +285,9 @@
 > 他的简历虽然不是炫酷的那种，但是是非常适合技术人的，可以多关注下他的github，上面有很多重量级的开源项目和面经，凸显出来开源输出的重要性，既能加强自身技术实力，又可以提高影响力
 
 - [github地址 =>](https://github.com/Blankj/resume)
+
+### 47、awesome-coding-js
+
+> 用JavaScript实现的算法和数据结构，附详细解释和刷题指南，笔者目前是在头条的前端架构组，很用心的整理
+
+- [github地址 =>](https://github.com/ConardLi/awesome-coding-js)
