@@ -40,3 +40,9 @@
 - [百度FEX](http://fex.baidu.com/)
 - [京东-凹凸实验室](https://aotu.io/notes/)
 - [腾讯AlloyTeam](http://www.alloyteam.com/)
+
+### 6、四火
+
+> 四火目前是在`Oracle`做云计算领域的事情，最早大学毕业在南京华为呆了三年半，后又来到北京`Amazon`,在北京这边应该呆了两年就`transfer`到`Amazon`的西雅图这边了，一共在`Amazon`呆了5年半，四火是一个很喜欢写作总结的人，个人网站中很多文章也是很有深度的，从四火个人这一路的经历来看，是值得去借鉴的，不断学习，输出，总结。
+
+- [个人网站](https://www.raychase.net/)
