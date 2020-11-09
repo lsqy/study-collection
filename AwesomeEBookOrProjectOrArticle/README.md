@@ -1095,6 +1095,6 @@
 
 ### 165、React 技术揭秘
 
-> React 的理念以及源码的解读，可以了解一下
+> React 的理念以及源码的解读，看了下同步生成的在线阅读地址，可以说是非常清晰明了，值得一读
 
 - [github 地址 =>](https://github.com/BetaSu/just-react)
